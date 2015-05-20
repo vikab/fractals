@@ -1,0 +1,11 @@
+D:\All here\graf\fractals\fractals\bin\Debug\fractals.exe
+D:\All here\graf\fractals\fractals\bin\Debug\fractals.pdb
+D:\All here\graf\fractals\fractals\obj\Debug\fractals.csprojResolveAssemblyReference.cache
+D:\All here\graf\fractals\fractals\obj\Debug\fractals.Form1.resources
+D:\All here\graf\fractals\fractals\obj\Debug\fractals.Properties.Resources.resources
+D:\All here\graf\fractals\fractals\obj\Debug\fractals.csproj.GenerateResource.Cache
+D:\All here\graf\fractals\fractals\obj\Debug\fractals.exe
+D:\All here\graf\fractals\fractals\obj\Debug\fractals.pdb
+D:\All here\graf\fractals\fractals\obj\Debug\fractals.Form2.resources
+D:\All here\graf\fractals\fractals\obj\Debug\fractals.Form3.resources
+D:\All here\graf\fractals\fractals\obj\Debug\fractals.Form4.resources
